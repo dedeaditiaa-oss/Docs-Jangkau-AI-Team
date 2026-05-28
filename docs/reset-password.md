@@ -5,9 +5,9 @@ Jika Anda lupa kata sandi akun Jangkau.ai Anda, jangan khawatir! Anda dapat meng
 Ikuti panduan langkah demi langkah di bawah ini:
 
 ### Langkah 1: Klik "Lupa Password"
-Buka halaman login resmi Jangkau.ai terlebih dahulu. Di bawah kolom pengisian kata sandi, silakan klik tautan bertuliskan **Lupa password**.
+Buka halaman login resmi Jangkau.ai terlebih dahulu di link **[https://app.jangkau.ai/app/login](https://app.jangkau.ai/app/login)**. Di bawah kolom pengisian kata sandi, silakan klik tautan bertuliskan **Lupa kata sandi Anda**.
 
-![Klik Lupa Password](assets/reset-1.png)
+![Lupa kata sandi](assets/reset-1.png)
 
 ---
 
@@ -16,29 +16,28 @@ Masukkan alamat email aktif yang terdaftar pada akun Jangkau.ai Anda ke dalam ko
 
 Sistem kami akan langsung memproses permintaan Anda dan mengirimkan email instruksi pengaturan ulang kata sandi.
 
-![Masukkan Email Reset](assets/reset-password.png)
+![Masukkan Email](assets/reset-password.png)
 
 ---
 
 ### Langkah 3: Periksa Email Masuk
-Buka kotak masuk (*Inbox*) atau folder *Spam/Promotions* pada email Anda. Anda akan menerima email resmi dari Jangkau.ai berisi tautan khusus untuk mengubah kata sandi. Silakan klik tombol atau tautan **Ubah Kata Sandi** yang ada di dalam pesan tersebut.
-
-![Cek Link di Email](assets/reset-password.png)
+Buka kotak masuk (*Inbox*) atau folder *Spam/Promotions* pada email Anda. Anda akan menerima email resmi dari Jangkau.ai berisi tautan khusus untuk mengubah kata sandi. Silakan klik tombol atau tautan **Ubah kata sandi saya** yang ada di dalam pesan tersebut.
 
 ---
 
 ### Langkah 4: Masukkan Kata Sandi Baru & Konfirmasi
 Anda akan diarahkan ke halaman formulir kata sandi baru. Masukkan kata sandi baru yang ingin Anda gunakan, kemudian masukkan sekali lagi di kolom **Konfirmasi Kata Sandi** untuk memastikan data yang dimasukkan sudah sama dan benar.
 
-![Formulir Sandi Baru](assets/reset-password.png)
+![Masukkan Kata Sandi Baru](assets/reset-2.png)
 
-!!! tip "Pengingat Keamanan Kata Sandi"
-    Demi keamanan akun bisnis Anda, pastikan kata sandi baru Anda tetap memenuhi kriteria berikut:
-    
-    * Minimal terdiri dari **8 karakter**.
-    * Memiliki minimal **1 huruf besar** (Kapital).
-    * Memiliki minimal **1 huruf kecil**.
-    * Memiliki minimal **1 karakter khusus** (Contoh: `@`, `#`, `!`, atau `$`).
+
+Demi keamanan akun bisnis Anda, pastikan kata sandi baru Anda tetap memenuhi kriteria berikut: 
+
+* Kata sandi memiliki **minimal 8 karakter** 
+* Minimal terdapat **1 huruf kapital** 
+* Minimal terdapat **1 huruf kecil**
+* Minimal terdapat **1 karakter khusus** 
+
 
 ---
 
