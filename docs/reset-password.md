@@ -30,7 +30,6 @@ Anda akan diarahkan ke halaman formulir kata sandi baru. Masukkan kata sandi bar
 
 ![Masukkan Kata Sandi Baru](assets/reset-2.png)
 
-
 Demi keamanan akun bisnis Anda, pastikan kata sandi baru Anda tetap memenuhi kriteria berikut: 
 
 * Kata sandi memiliki **minimal 8 karakter** 
