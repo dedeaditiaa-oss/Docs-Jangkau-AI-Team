@@ -31,7 +31,10 @@ nav:
       - Registrasi dan Login: registrasi-dan-login.md
       - Reset Password: reset-password.md
   - Bot AI :
-      - Booking/Reservasi : kosongan.md
-      - Support Helpdesk : kosongan.md
-      - Lead Generation : kosongan.md
-      - Chat Commerce : kosongan.md
+      - Informasi Umum : umum.md
+      # - Informasi Website : website.md
+      - Jenis Bot : 
+          - Booking/Reservasi : booking.md
+          - Support Helpdesk : support.md
+          - Lead Generation : lead.md
+          - Chat Commerce : chat.md
