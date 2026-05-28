@@ -1,0 +1,32 @@
+site_name: Jangkau AI Docs
+site_url: https://docs.jangkau.ai
+
+theme:
+  name: material
+  logo: assets/favicon.png       # <-- POSISI YANG BENAR (Masuk di dalam 'theme')
+  favicon: assets/favicon.png # <-- POSISI YANG BENAR (Masuk di dalam 'theme')
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: white
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Mode Gelap
+    - media: "(prefers-color-scheme: dark)"
+      primary: slate
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Mode Terang
+  features:
+    - navigation.expand # <-- Fitur expand tetap kita pakai agar menu bisa buka-tutup
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Selamat Datang di Jangkau.ai: index.md
+  - Mulai Di Sini: 
+      - Pengenalan Jangkau.ai: pengenalan.md
+      - Registrasi dan Login: registrasi-dan-login.md
+      - Reset Password: reset-password.md

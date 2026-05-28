@@ -1,0 +1,45 @@
+/* 1. Mengubah warna latar belakang navbar atas menjadi abu-abu terang */
+.md-header {
+  background-color: #eaf5ee !important; 
+}
+
+/* 2. Mengubah warna teks judul di navbar agar tetap kontras (Hijau Tua) */
+.md-header__title {
+  color: #008744 !important;
+}
+
+/* 3. Mengubah warna ikon (pencarian, mode gelap) di navbar */
+.md-header__button {
+  color: #008744 !important;
+}
+
+/* 4. CARA YANG BENAR: Menghilangkan HANYA TULISAN teks di menu samping tanpa merusak logo navbar atas */
+.md-sidebar--primary .md-nav__title {
+  display: none !important;
+}
+
+/* 5. Memaksa logo Jangkau.ai di navbar atas agar memanjang secara proporsional */
+.md-header__button.md-logo img {
+  height: 2.2rem !important;  
+  width: auto !important;    
+  max-width: 280px !important; 
+}
+
+.md-header__button.md-logo {
+  display: flex !important;
+  align-items: center !important;
+}
+
+/* Membuat menu utama tingkat pertama (Selamat Datang & Mulai Di Sini) menjadi Bold */
+.md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 700 !important;
+}
+
+/* Memastikan anak menu di dalam dropdown (Pengenalan, Registrasi, Login) tetap Normal/Tidak Bold */
+.md-nav__list > .md-nav__item--nested .md-nav__list .md-nav__link {
+  font-weight: 400 !important;
+}
+
+.md-nav__link--active {
+  color: #404040 !important;
+}
