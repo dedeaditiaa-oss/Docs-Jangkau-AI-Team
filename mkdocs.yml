@@ -3,8 +3,8 @@ site_url: https://docs.jangkau.ai
 
 theme:
   name: material
-  logo: assets/favicon.png       # <-- POSISI YANG BENAR (Masuk di dalam 'theme')
-  favicon: assets/favicon.png # <-- POSISI YANG BENAR (Masuk di dalam 'theme')
+  logo: assets/favicon.png       
+  favicon: assets/favicon.png 
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: white
@@ -19,8 +19,8 @@ theme:
         icon: material/brightness-4
         name: Mode Terang
   features:
-    - navigation.expand # <-- Fitur expand tetap kita pakai agar menu bisa buka-tutup
-
+    - navigation.expand 
+    
 extra_css:
   - stylesheets/extra.css
 
@@ -30,11 +30,19 @@ nav:
       - Pengenalan Jangkau.ai: pengenalan.md
       - Registrasi dan Login: registrasi-dan-login.md
       - Reset Password: reset-password.md
+  - Platform Terhubung : platform.md
   - Bot AI :
       - Informasi Umum : umum.md
       - Informasi Website : website.md
       - Jenis Bot : 
           - Booking/Reservasi : booking.md
           - Support Helpdesk : support.md
-          - Lead Generation : lead.md
+          - Lead Generation: 
+              - Katalog Produk: lead-katalog.md
+              - Pengaturan: lead-pengaturan.md
+              - File: lead-file.md
+              - QnA: lead-qna.md
+              - Klasifikasi: lead-klasifikasi.md
+              - Kategori: lead-kategori.md
+              - Penomoran otomatis: lead-penomoran.md
           - Chat Commerce : chat.md

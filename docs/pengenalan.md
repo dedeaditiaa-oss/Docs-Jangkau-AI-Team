@@ -1,7 +1,7 @@
 Markdown
-# 👋 Pengenalan Jangkau.ai
+# 👋 Pengenalan Jangkau.AI
 
-Selamat datang di pusat bantuan Jangkau.ai! 🚀 Jangkau.ai hadir untuk membantu bisnis Anda melakukan transformasi layanan pelanggan dengan AI cerdas agar bisa merespons pesan 10x lebih cepat tanpa ribet selama 24/7. 
+Selamat datang di pusat bantuan Jangkau.AI! 🚀 Jangkau.ai hadir untuk membantu bisnis Anda melakukan transformasi layanan pelanggan dengan AI cerdas agar bisa merespons pesan 10x lebih cepat tanpa ribet selama 24/7. 
 
 AI Agent Anda nantinya dapat diintegrasikan secara instan ke berbagai saluran komunikasi populer, mulai dari **Web Chat (Widget Website), WhatsApp, hingga Telegram**! 💬✨
 

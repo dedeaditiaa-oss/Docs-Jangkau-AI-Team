@@ -37,11 +37,10 @@ Demi keamanan akun bisnis Anda, pastikan kata sandi baru Anda tetap memenuhi kri
 * Minimal terdapat **1 huruf kecil**
 * Minimal terdapat **1 karakter khusus** 
 
-
 ---
 
 ### Langkah 5: Selesai & Masuk ke Dashboard
-Setelah menekan tombol simpan/konfirmasi, kata sandi Anda telah diperbarui. Anda akan langsung otomatis diarahkan masuk ke halaman utama **Dashboard Jangkau.ai**. 
+Setelah menekan tombol simpan/konfirmasi, kata sandi Anda telah diperbarui. Anda akan langsung otomatis diarahkan masuk ke halaman utama **Dashboard Jangkau.AI**. 
 
 Jika di kemudian hari Anda ingin keluar dan masuk kembali, Anda bisa menggunakan tautan login manual di bawah ini menggunakan kata sandi yang baru:
 👉 **[https://app.jangkau.ai/app/login](https://app.jangkau.ai/app/login)**
