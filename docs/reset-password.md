@@ -1,11 +1,11 @@
 # 🔄 Cara Reset Password (Lupa Kata Sandi)
 
-Jika Anda lupa kata sandi akun Jangkau.ai Anda, jangan khawatir! Anda dapat mengatur ulang (*reset*) kata sandi Anda dengan mudah dan aman agar dapat mengakses kembali layanan AI Agent Anda.
+Jika Anda lupa kata sandi akun Jangkau AI Anda, jangan khawatir! Anda dapat mengatur ulang (*reset*) kata sandi Anda dengan mudah dan aman agar dapat mengakses kembali layanan AI Agent Anda.
 
 Ikuti panduan langkah demi langkah di bawah ini:
 
 ### Langkah 1: Klik "Lupa Password"
-Buka halaman login resmi Jangkau.ai terlebih dahulu di link **[https://app.jangkau.ai/app/login](https://app.jangkau.ai/app/login)**. Di bawah kolom pengisian kata sandi, silakan klik tautan bertuliskan **Lupa kata sandi Anda**.
+Buka halaman login resmi Jangkau AI terlebih dahulu di link **[https://app.jangkau.ai/app/login](https://app.jangkau.ai/app/login)**. Di bawah kolom pengisian kata sandi, silakan klik tautan bertuliskan **Lupa kata sandi Anda**.
 
 ![Lupa kata sandi](assets/reset-1.png)
 
@@ -40,7 +40,7 @@ Demi keamanan akun bisnis Anda, pastikan kata sandi baru Anda tetap memenuhi kri
 ---
 
 ### Langkah 5: Selesai & Masuk ke Dashboard
-Setelah menekan tombol simpan/konfirmasi, kata sandi Anda telah diperbarui. Anda akan langsung otomatis diarahkan masuk ke halaman utama **Dashboard Jangkau.AI**. 
+Setelah menekan tombol simpan/konfirmasi, kata sandi Anda telah diperbarui. Anda akan langsung otomatis diarahkan masuk ke halaman utama **Dashboard Jangkau AI**. 
 
 Jika di kemudian hari Anda ingin keluar dan masuk kembali, Anda bisa menggunakan tautan login manual di bawah ini menggunakan kata sandi yang baru:
 👉 **[https://app.jangkau.ai/app/login](https://app.jangkau.ai/app/login)**

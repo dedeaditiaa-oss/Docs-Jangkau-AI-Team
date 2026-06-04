@@ -8,7 +8,7 @@ Halaman ini menjelaskan panduan dasar pembuatan dan pengaturan awal yang berlaku
 
 Untuk memulai pembuatan Bot AI, ikuti langkah berikut:
 
-1. Masuk ke dashboard Jangkau.AI lalu klik tombol **Bot AI** pada panel di sebelah kiri.
+1. Masuk ke dashboard Jangkau AI lalu klik tombol **Bot AI** pada panel di sebelah kiri.
 2. Klik **+ Buat Bot AI**
 3. Masukkan **Nama Bot AI** sesuai preferensi Anda.
 4. Pada pilihan **Tipe Bot AI**, pilih **Single Agent**.

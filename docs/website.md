@@ -39,4 +39,4 @@ Ikuti panduan berikut untuk mulai melatih kecerdasan Bot AI Anda menggunakan tau
 
 *   Pastikan website yang Anda masukkan bersifat publik (tidak terkunci oleh kata sandi/password login).
 
-*   Pastikan halaman web tersebut berisi informasi berbentuk teks yang jelas (bukan berupa gambar penuh/infografis tanpa teks), agar AI dapat menyerap informasinya secara maksimal.
+*   Pastikan halaman web tersebut berisi informasi berbentuk teks yang jelas (bukan berupa gambar penuh/infografis tanpa teks), agar AI dapat mengambil informasinya secara maksimal.

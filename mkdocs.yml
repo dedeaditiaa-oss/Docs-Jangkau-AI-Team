@@ -25,9 +25,9 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Selamat Datang di Jangkau.ai: index.md
+  - Selamat Datang di Jangkau AI: index.md
   - Mulai Di Sini: 
-      - Pengenalan Jangkau.ai: pengenalan.md
+      - Pengenalan Jangkau AI: pengenalan.md
       - Registrasi dan Login: registrasi-dan-login.md
       - Reset Password: reset-password.md
   - Platform Terhubung : platform.md

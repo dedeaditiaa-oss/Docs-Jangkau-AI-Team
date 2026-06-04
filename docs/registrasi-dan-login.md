@@ -1,6 +1,6 @@
 # 🔑 Cara Registrasi Akun Baru
 
-Selamat datang di Jangkau.AI ! Untuk mulai menggunakan layanan AI Agen kami, langkah pertama yang wajib dilakukan adalah mendaftarkan bisnis Anda dan membuat akun baru.
+Selamat datang di Jangkau AI ! Untuk mulai menggunakan layanan AI Agen kami, langkah pertama yang wajib dilakukan adalah mendaftarkan bisnis Anda dan membuat akun baru.
 
 Ikuti panduan langkah demi langkah di bawah ini:
 
@@ -49,4 +49,4 @@ Kata sandi memiliki **minimal 8 karakter** dengan kombinasi berikut:
 
 * Klik masuk dashboard atau bisa login di link berikut **[https://app.jangkau.ai/app/login](https://app.jangkau.ai/app/login)**
   
-🎉 **Selamat!** Akun Jangkau.AI Anda kini sudah aktif dan siap digunakan.
+🎉 **Selamat!** Akun Jangkau AI Anda kini sudah aktif dan siap digunakan.
