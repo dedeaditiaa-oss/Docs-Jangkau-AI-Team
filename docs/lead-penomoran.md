@@ -1,6 +1,6 @@
 # 🔢 Penomoran Otomatis
 
-Fitur **Penomoran Otomatis** pada Bot Lead Generation berfungsi untuk menciptakan kode unik atau ID transaksi bagi setiap prospek baru yang berhasil dijaring oleh bot. 
+Fitur **Penomoran Otomatis** pada Bot Lead Generation berfungsi untuk menciptakan kode unik atau ID transaksi bagi setiap prospek baru yang berhasil dicatat oleh bot. 
 
 Pengaturan ini terhubung langsung dengan Output Sheet Anda. Hasil format penomoran yang Anda atur di sini akan secara otomatis diisi oleh AI ke dalam kolom **`Lead Id`** pada file Google Sheets Output.
 
@@ -10,7 +10,7 @@ Pengaturan ini terhubung langsung dengan Output Sheet Anda. Hasil format penomor
 
 ## ⚙️ Cara Mengatur Format Penomoran
 
-Pada halaman konfigurasi ini, Anda dapat meracik sendiri bagaimana bentuk Lead ID yang Anda inginkan.
+Pada halaman konfigurasi ini, Anda dapat mengatur sendiri bagaimana Lead ID yang Anda inginkan.
 
 ![Halaman Konfigurasi Penomoran](assets/penomoran-1.png)
 

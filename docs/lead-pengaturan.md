@@ -30,11 +30,7 @@ Di dunia *sales*, pelanggan yang tiba-tiba berhenti membalas (*ghosting*) adalah
 * **Fungsi:** Jika pelanggan tidak membalas pesan bot dalam kurun waktu tertentu, bot akan otomatis mengirimkan pesan *follow-up* (tindak lanjut) untuk memancing kembali interaksi pelanggan.
 * **Batas Waktu Idle:** Anda bisa menentukan sendiri berapa lama bot harus menunggu sebelum mengirim pesan *follow-up* (misalnya: `30 menit`).
 
-
-Jangan mengatur waktu idle terlalu cepat (misal: 1 menit) karena bisa membuat pelanggan merasa terburu-buru atau terganggu. Waktu 15 hingga 30 menit biasanya merupakan jeda yang ideal.
-
 ---
-
 ## 💾 Menyimpan Perubahan
 
 Setelah Anda menyesuaikan konfigurasi di atas, jangan lupa untuk selalu mengklik tombol hijau **Simpan** di kotak **Simpan Perubahan** yang berada di sebelah kanan layar agar pengaturan baru Anda segera diterapkan pada Bot AI.

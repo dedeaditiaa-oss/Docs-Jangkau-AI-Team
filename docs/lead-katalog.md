@@ -44,6 +44,7 @@ Ini adalah database utama tempat AI mempelajari produk atau layanan bisnis Anda.
 
 * **Kolom Wajib:** Anda wajib memiliki kolom **`nama`** dan **`keterangan`**. AI membutuhkan kedua kolom dasar ini untuk merekomendasikan produk ke pelanggan.
 * **Kolom Tambahan:** Anda bebas menambahkan kolom lain (seperti *harga, stok, kategori, diskon, berat*, dll) menyesuaikan dengan kebutuhan bisnis Anda. AI akan secara otomatis membaca dan memahami **semua kolom** yang tersedia di sheet tersebut.
+* **Menyinkronkan Sheet:** Setiap melakukan perubahan pada Input Sheet, jangan lupa untuk klik **Sinkron dari sheet**
 
 ### B. Output Sheet (Pelacakan Ketertarikan)
 Sheet ini merupakan data dari hasil kerja Bot AI Anda. Baris pada sheet ini **akan terisi secara otomatis** setiap kali ada (*lead*) baru yang masuk melalui percakapan interaksi pelanggan dengan Bot.
@@ -66,10 +67,10 @@ Untuk mengaktifkan fitur ini, Anda perlu melengkapi komponen pengaturan berikut:
 
 1.  **Platform Pengirim:** Pilih platform atau saluran komunikasi yang akan digunakan sistem untuk mengirimkan pesan notifikasi.
 2.  **Kategori Leads:** Pilih jenis kategori prospek apa saja yang ingin Anda pantau untuk dikirimkan notifikasinya.
-3.  **Klasifikasi:** Pilih tingkat klasifikasi leads tertentu (misalnya tingkat *High*) yang wajib memicu alarm masuk.
+3.  **Klasifikasi:** Pilih tingkat klasifikasi leads tertentu (misalnya tingkat *High*) 
 4.  **Tipe Pesan:** Tentukan arah tujuan pengiriman notifikasi, terdapat 2 pilihan:
     *   **Pribadi:** Jika memilih tipe ini, Anda wajib memasukkan nomor pribadi tujuan. Informasi data lead yang masuk nantinya hanya akan dikirimkan secara privat ke nomor telepon tersebut.
-    *   **Grup:** Jika memilih tipe ini, informasi data lead yang masuk akan dikirimkan langsung ke dalam grup obrolan bersama, sehingga seluruh anggota tim di dalam grup tersebut dapat mengetahuinya secara transparan.
+    *   **Grup:** Jika memilih tipe ini, informasi data lead yang masuk akan dikirimkan langsung ke dalam grup obrolan bersama, sehingga seluruh anggota tim di dalam grup tersebut dapat mengetahuinya.
 5.  **Isi Pesan:** Tulis template teks pesan notifikasi yang ingin Anda terima.
 
 Berikut adalah contoh format tampilan ringkasan notifikasi yang akan diterima oleh tim internal Anda di ponsel mereka ketika ada lead baru yang berhasil didapatkan oleh AI:
