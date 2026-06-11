@@ -15,5 +15,6 @@ jobs:
 
       - name: Dorong Kode ke Bitbucket
         run: |
-          git remote add bitbucket https://${{ secrets.BITBUCKET_USERNAME }}:${{ secrets.BITBUCKET_PASSWORD }}@bitbucket.org/radyalabsdev/docs.jangkau.git
+          echo "machine bitbucket.org login ${{ secrets.BITBUCKET_USERNAME }} password ${{ secrets.BITBUCKET_PASSWORD }}" > ~/.netrc
+          git remote add bitbucket https://bitbucket.org/radyalabsdev/docs.jangkau.git
           git push bitbucket main --force
